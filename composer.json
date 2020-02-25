@@ -1,0 +1,19 @@
+{
+    "name": "remember/annotations",
+    "description": "project for annotatons",
+    "authors": [
+        {
+            "name": "wuqinqiang",
+            "email": "1185079673@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Remember\\Annotations\\": "./src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^8.5",
+        "mockery/mockery": "^1.3"
+    }
+}
