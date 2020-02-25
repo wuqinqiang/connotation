@@ -1,6 +1,7 @@
 {
     "name": "remember/annotations",
     "description": "project for annotatons",
+    "license": "MIT",
     "authors": [
         {
             "name": "wuqinqiang",
